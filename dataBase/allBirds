@@ -1,0 +1,23 @@
+******* allBirds Shoe website ******
+
+// page-1
+>List of men category
+<!-- * http://localhost:1995/mainPage -->
+* https://myapi-jgul.onrender.com/mainPage
+
+// page-2
+> List of products
+<!-- * http://localhost:1995/product -->
+* https://myapi-jgul.onrender.com/product
+
+// page-3
+> List of ordering
+<!-- * http://localhost:1995/ordering -->
+* https://myapi-jgul.onrender.com/ordering
+
+// page-4
+> List of ordered details
+<!-- * http://localhost:1995/orderedDetails -->
+* https://myapi-jgul.onrender.com/orderedDetails
+* https://myapi-jgul.onrender.com/orderedDetails?Shoes_Id=1
+* https://myapi-jgul.onrender.com/orderedDetails?BestSellers_Id=1
